@@ -59,6 +59,8 @@ BrakeWave is a dynamic simulation project that models the behavior of an Anti-lo
 
 - **src/:**:
   Contains the C++ source code for the ABS simulation.
+- **incl/:**:
+  Header files for the C++ simulation classes.
 - **scripts/:**:
   Contains the Python scripts for data visualization.
 - **build/:**:
